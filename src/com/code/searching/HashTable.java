@@ -1,6 +1,10 @@
 package com.code.searching;
 
 import java.util.Scanner;
+/*
+ * Fastest searching method
+ * Time complexity:- O(n) less than binarySearch
+ */
 
 public class HashTable {
 	static int i = 0;
