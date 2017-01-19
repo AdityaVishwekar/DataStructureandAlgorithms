@@ -27,7 +27,7 @@ public class QuickSort {
 		
 	}
 
-	private static void quickSort(int[] x, int lb, int ub) {
+	public static void quickSort(int[] x, int lb, int ub) {
 		// TODO Auto-generated method stub
 		int mid = 0;
 		if(lb < ub) {

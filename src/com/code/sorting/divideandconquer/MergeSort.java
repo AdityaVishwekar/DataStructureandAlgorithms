@@ -26,7 +26,7 @@ public class MergeSort {
 
 	}
 
-	private static void useMerge(int[] x, int lb, int ub) {
+	public static void useMerge(int[] x, int lb, int ub) {
 		// TODO Auto-generated method stub
 		int mid = 0;
 		if( lb < ub) {
